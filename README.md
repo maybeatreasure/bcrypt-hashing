@@ -1,4 +1,4 @@
-# authetication using bcrypt
+# hashing with bcrypt
 
 This is just I am playing around with bcrypt and hashing.
 
