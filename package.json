@@ -1,0 +1,20 @@
+{
+  "name": "crypto-invoices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maybeatreasure/crypto-invoices.git",
+  "author": "Nikhil <nikhil@bhintade.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
